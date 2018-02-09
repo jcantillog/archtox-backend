@@ -10,6 +10,8 @@ var users = require('./routes/users');
 
 var app = express();
 
+//mongoose.connect('mongodb://root:bdatos@ds043991.mlab.com:43991/cuenta');
+
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
