@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6089080-157c-471b-97c0-267788316b7a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change beforePath="$PROJECT_DIR$/models/grupo_farmaco.js" afterPath="$PROJECT_DIR$/models/grupo_farmaco.js" />
-      <change beforePath="$PROJECT_DIR$/models/info_farmaco.js" afterPath="$PROJECT_DIR$/models/info_farmaco.js" />
-      <change beforePath="$PROJECT_DIR$/models/permisos.js" afterPath="$PROJECT_DIR$/models/permisos.js" />
-      <change beforePath="$PROJECT_DIR$/models/recursos.js" afterPath="$PROJECT_DIR$/models/recursos.js" />
-      <change beforePath="$PROJECT_DIR$/models/rol.js" afterPath="$PROJECT_DIR$/models/rol.js" />
-      <change beforePath="$PROJECT_DIR$/models/usuario.js" afterPath="$PROJECT_DIR$/models/usuario.js" />
-    </list>
+    <list default="true" id="d6089080-157c-471b-97c0-267788316b7a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -175,11 +166,6 @@
               <item name="archtox-backend" type="b2602c69:ProjectViewProjectNode" />
               <item name="archtox-backend" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="archtox-backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="archtox-backend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -220,12 +206,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518129328255</updated>
-      <workItem from="1518129330425" duration="4982000" />
+      <workItem from="1518129330425" duration="5209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4982000" />
+    <option name="totallyTimeSpent" value="5209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
